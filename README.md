@@ -1,5 +1,4 @@
 ### Oi, World 👋
-Web dev #1 (multi-media professional), #2 (focus on learning), #3 (focus on hard skills)
 
 Hi 👋, I'm Kelle
 A full stack developer from Brasil
