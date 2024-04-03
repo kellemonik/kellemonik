@@ -1,6 +1,6 @@
 ### Oi, World 👋
 
-Hi 👋, I'm Kelle
+Hi 👋, I'm Kelle  
 A full stack developer from Brasil
 🔭 I’m currently working on improve my website - booktown.me - made for the conclusion of Le Wagon's Full Stack Web Development bootcamp
 👯 I’m looking to collaborate on back or frontend projects!
